@@ -21,10 +21,10 @@ Bottle是一个由 Python_ 编写， 高性能、 简单且轻量级的 WSGI_ �
 
 * **路由:** 通过Bottle内建的路由，请求被映射为函数调用，而且它还支持用户友好的URL甚至动态URL。 
 * **模板:** Bottle `*内建* <http://bottlepy.org/docs/dev/tutorial.html#tutorial-templates>`_ 了高性能的模板引擎同时他还支持 mako_, jinja2_ 和 cheetah_。
-* **Utilities:** Convenient access to form data, file uploads, cookies, headers and other HTTP-related metadata.
-* **Server:** Built-in HTTP development server and support for paste_, fapws3_, bjoern_, `Google App Engine <http://code.google.com/intl/en-US/appengine/>`_, cherrypy_ or any other WSGI_ capable HTTP server.
+* **工具:** 通过Bottle可以很方便的访问表单数据, 上传文件, 调整Cookies, 以及发送Http头。
+* **服务器:** 可以通过自带的HTTP Server以及paste_, fapws3_, bjoern_, `Google App Engine <http://code.google.com/intl/en-US/appengine/>`_, cherrypy_ 等 WSGI_ HTTP Server运行Bottle编写的应用。
 
-Homepage and documentation: http://bottlepy.org
+项目主页: http://bottlepy.org
 
 
 Example: "Hello World" in a bottle
