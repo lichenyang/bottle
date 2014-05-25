@@ -27,7 +27,7 @@ Bottle是一个由 Python_ 编写， 高性能、 简单且轻量级的 WSGI_ �
 项目主页: http://bottlepy.org
 
 
-Example: "Hello World" in a bottle
+例子: Bottle的"Hello World"
 ----------------------------------
 
 .. code-block:: python
@@ -40,7 +40,7 @@ Example: "Hello World" in a bottle
 
   run(host='localhost', port=8080)
 
-Run this script or paste it into a Python console, then point your browser to `<http://localhost:8080/hello/world>`_. That's it.
+运行这段代码或者将其拷贝到Python控制台中, 用浏览器打开 `<http://localhost:8080/hello/world>`_。 大功告成！
 
 
 Download and Install
