@@ -13,10 +13,10 @@
 .. _Python: http://python.org/
 
 ============================
-Bottle: Python Web Framework
+Bottle: Python编写的Web框架
 ============================
 
-Bottle is a fast, simple and lightweight WSGI_ micro web-framework for Python_. It is distributed as a single file module and has no dependencies other than the `Python Standard Library <http://docs.python.org/library/>`_.
+Bottle是一个高性能的, 简单且轻量级的Python_ WSGI_小型框架。It is distributed as a single file module and has no dependencies other than the `Python Standard Library <http://docs.python.org/library/>`_.
 
 
 * **Routing:** Requests to function-call mapping with support for clean and  dynamic URLs.
