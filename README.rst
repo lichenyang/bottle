@@ -16,11 +16,11 @@
 Bottle: Python编写的Web框架
 ============================
 
-Bottle是一个高性能的, 简单且轻量级的Python_ WSGI_小型框架。It is distributed as a single file module and has no dependencies other than the `Python Standard Library <http://docs.python.org/library/>`_.
+Bottle是一个由 Python_ 编写， 高性能、 简单且轻量级的 WSGI_ 小型框架。他是一个单一的 Python_ 模块，因此不依赖与任何其他的`Python标准程序库 <http://docs.python.org/library/>`_.
 
 
-* **Routing:** Requests to function-call mapping with support for clean and  dynamic URLs.
-* **Templates:** Fast and pythonic `*built-in template engine* <http://bottlepy.org/docs/dev/tutorial.html#tutorial-templates>`_ and support for mako_, jinja2_ and cheetah_ templates.
+* **路由:** 通过Bottle内建的路由，请求被映射为函数调用，而且它还支持用户友好的URL甚至动态URL。 
+* **模板:** Bottle`*内建* <http://bottlepy.org/docs/dev/tutorial.html#tutorial-templates>`_ 了高性能的模板引擎同时他还支持 mako_, jinja2_ 和 cheetah_。
 * **Utilities:** Convenient access to form data, file uploads, cookies, headers and other HTTP-related metadata.
 * **Server:** Built-in HTTP development server and support for paste_, fapws3_, bjoern_, `Google App Engine <http://code.google.com/intl/en-US/appengine/>`_, cherrypy_ or any other WSGI_ capable HTTP server.
 
