@@ -43,12 +43,12 @@ Bottle是一个由 Python_ 编写， 高性能、 简单且轻量级的 WSGI_ �
 运行这段代码或者将其拷贝到Python控制台中, 用浏览器打开 `<http://localhost:8080/hello/world>`_。 大功告成！
 
 
-Download and Install
+下载和安装
 --------------------
 
 .. __: https://github.com/defnull/bottle/raw/master/bottle.py
 
-Install the latest stable release with ``pip install bottle``, ``easy_install -U bottle`` or download `bottle.py`__ (unstable) into your project directory. There are no hard dependencies other than the Python standard library. Bottle runs with **Python 2.5+ and 3.x**.
+你可以通过 ``pip install bottle``, ``easy_install -U bottle`` 来安装最新的稳定版本，或者下载 `bottle.py`__ (不稳定) 到你的工程目录下。 它对你的Python没有太高要求，只需要 **Python 2.5+ and 3.x**。
 
 
 License
