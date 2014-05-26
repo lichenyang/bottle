@@ -28,7 +28,7 @@ Bottle是一个由 Python_ 编写， 高性能、 简单且轻量级的 WSGI_ �
 
 
 例子: Bottle的"Hello World"
-----------------------------------
+---------------------------
 
 .. code-block:: python
 
@@ -44,18 +44,20 @@ Bottle是一个由 Python_ 编写， 高性能、 简单且轻量级的 WSGI_ �
 
 
 下载和安装
---------------------
+----------
 
 .. __: https://github.com/defnull/bottle/raw/master/bottle.py
 
 你可以通过 ``pip install bottle``, ``easy_install -U bottle`` 来安装最新的稳定版本，或者下载 `bottle.py`__ (不稳定) 到你的工程目录下。 它对你的Python没有太高要求，只需要 **Python 2.5+ and 3.x**。
 
 
-License
--------
+声明
+----
 
 .. __: https://github.com/defnull/bottle/raw/master/LICENSE
 
-Code and documentation are available according to the MIT License (see LICENSE__).
+本文是基于Bottle原文档的中文译本。
 
-The Bottle logo however is *NOT* covered by that license. It is allowed to use the logo as a link to the bottle homepage or in direct context with the unmodified library. In all other cases please ask first.
+代码和文档遵循 MIT License (see LICENSE__)。
+
+Bottle的Logo并不适用该协议。使用前必须向作者征求意见。
